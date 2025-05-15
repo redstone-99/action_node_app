@@ -1,2 +1,4 @@
 # .gitignore 파일
 node_modules
+# 개인키는 절대로 github 에 올리면 안됨
+github-actions-key
